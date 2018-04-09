@@ -1,9 +1,22 @@
 Package: hexagon
-Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
-Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
-License: What license it uses
+Version: 0.1.1
+Title: Hexagon Shaped Data Frames
+Authors@R: person("Michael Wayne", "Kearney", , 
+    "kearneymw@missouri.edu", role = c("aut", "cre"), 
+    comment = c(ORCID = "0000-0002-0730-4694"))
+Description: Returns hexagon shaped data frames with xy coordinates.
+License: MIT + file LICENSE
+URL: https://github.com/mkearney/hexagon
+BugReports: https://github.com/mkearney/hexagon/issues
+Depends:
+    R (>= 3.1.0)
+Imports:
+    shape
+Suggests: 
+    knitr,
+    roxygen2,
+    testthat
 Encoding: UTF-8
-LazyData: true
-ByteCompile: true
+LazyData: yes
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1.9000

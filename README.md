@@ -43,7 +43,7 @@ with(hex1, plot(x, y, type = "l"))
 
 <p align="center">
 
-<img src="inst/tools/readme/plot1.png" >
+<img src="tools/readme/plot1.png" >
 
 </p
 
@@ -65,7 +65,7 @@ ggplot(hex1, aes(x, y)) +
 
 <p align="center">
 
-<img src="inst/tools/readme/plot2.png" >
+<img src="tools/readme/plot2.png" >
 
 </p
 
@@ -118,6 +118,6 @@ p
 
 <p align="center">
 
-<img width="150px" src="inst/tools/readme/dots-sticker.png" >
+<img width="150px" src="tools/readme/dots-sticker.png" >
 
 </p>
