@@ -12,9 +12,7 @@
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
-R client for accessing Twitter’s REST and stream APIs. Check out the
-[hexagon package documentation
-website](http://mkearney.github.io/hexagon).
+R package for creating hexagon shaped xy data frames.
 
 ## Installation
 
