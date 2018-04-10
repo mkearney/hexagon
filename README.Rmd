@@ -37,7 +37,7 @@ if (!requireNamespace("devtools", quietly = TRUE)) {
 ## install dev version of hexagon from github
 devtools::install_github("mkearney/hexagon")
 
-## load rtweet package
+## load hexagon package
 library(hexagon)
 ```
 
